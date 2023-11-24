@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eya_Alila_Mesure_Glycemie</string>
+    <string name="mesure_de_niveau_de_glycemie">Mesure de niveau de glycemie</string>
+    <string name="ageText">Votre Age</string>
+    <string name="jeunesseText">Est-ce que vous jeunez ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="Valeur">Valeur mesurée (en mmol/l)</string>
+    <string name="consulter">CONSULTER</string>
+    <string name="resultat">...</string>
+</resources>
+
